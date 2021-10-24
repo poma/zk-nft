@@ -1,0 +1,13 @@
+node_modules
+cache
+artifacts
+build
+dist
+.env
+
+node_modules
+.env
+
+#Hardhat files
+cache
+artifacts

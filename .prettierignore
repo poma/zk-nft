@@ -1,0 +1,7 @@
+.vscode
+.idea
+cache
+artifacts
+build
+dist
+contracts/transactionVerifier.sol
